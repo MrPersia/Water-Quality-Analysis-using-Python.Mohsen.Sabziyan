@@ -32,5 +32,6 @@ Um den Code auszuführen, benötigen Sie Python auf Ihrem System sowie die folge
 - seaborn
 - pycaret
 
-Fazit
+Fazit:
+
 Basierend auf den Auswertungsergebnissen hat der Random Forest Classifier am besten abgeschnitten mit einer Genauigkeit von 0.678 und einer AUC von 0.684. Weitere Optimierungen und Merkmalsextraktion können untersucht werden, um die Leistung des Modells zu verbessern.
